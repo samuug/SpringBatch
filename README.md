@@ -1,7 +1,7 @@
 # SpringBatch
 
 ## Nota:
-Mi repositorio es: 
+Mi repositorio es: https://github.com/samuug/SpringBatch.git
 
 Enunciado de la Práctica Spring Batch
 
